@@ -1,0 +1,11 @@
+{
+    "name": "ht123/for-test-one",
+    "description": "qweqwe",
+    "authors": [
+        {
+            "name": "jinhaitian",
+            "email": "jinhaitian@baidu.com"
+        }
+    ],
+    "require": {}
+}
